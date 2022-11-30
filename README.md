@@ -1,3 +1,5 @@
 # Higher Revenues
 
-The project was design to order the higher revenues in Rio de Janeiro, the main goal is to sell the ordered data from a company.
+The project was design using airbnb real data provided by: http://insideairbnb.com/get-the-data/
+
+The main goal is to sell the ordered data to a interested company.
